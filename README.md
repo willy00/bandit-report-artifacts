@@ -11,6 +11,7 @@
 </h1>
 
 <p align="center">
+	This is modified to work on the Cybernetic-Insecure project for automatic testing.
   This <a href="https://github.com/features/actions">GitHub Action</a> will deploy your Django project to <a href="https://aws.amazon.com/elasticbeanstalk/">AWS Elastic beanstalk</a>.
 </p>
 
